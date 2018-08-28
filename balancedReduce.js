@@ -1,3 +1,5 @@
+use strict;
+
 const balance = (str) => {
 
     const strArr = str.split('');
